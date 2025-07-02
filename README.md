@@ -16,8 +16,8 @@ This repository contains a Python-based lead qualification tool that enhances tr
 
 ## ⚙️ Setup Instructions
 Step 1 : Install the necessary libraries
-      cmd - pip install -r requirements.txt
-      jupyter - !pip install -r requirements.txt
+      - cmd - pip install -r requirements.txt
+      - jupyter - !pip install -r requirements.txt
 
 Step 2 : Get a API_KEY from "groq.com"
 Step 3 : Place your api key in place of "YOUR_API_KEY" in the initializing section
